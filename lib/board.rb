@@ -1,2 +1,2 @@
 # Define the variable board below.
-board = ["", "", "","", "","","","",""]
+board = ["one", "two", "three", "four", "five", "six", "seven", "eight"]
